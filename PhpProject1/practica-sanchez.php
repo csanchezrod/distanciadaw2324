@@ -22,7 +22,7 @@
  * el número más nueve consecutivos, imprimiendo cada uno de los números.
  *
  * @param int $inicio El número entero introducido para comenzar el conteo.
-
+ 
  */
 function contarDesde($numeroInicio) {
     for ($i = $numeroInicio; $i < $numeroInicio + 10; $i++) {
